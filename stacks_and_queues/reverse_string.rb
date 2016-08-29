@@ -1,9 +1,4 @@
 #reverse a string using a stack and a queue
-
-#orginal string
-string = "Jason"
-# expected output => "nosaJ"
-
 def reverse_string(str)
 	#create the stack and queue
 	stack = []
