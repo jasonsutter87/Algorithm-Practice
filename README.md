@@ -3,6 +3,28 @@
 
 >  Im using "Cracking the Coding Interview" for my guide
 
+## Arrays and String
+- [Is Unique](#), [RSpec tests](#)
+- [Check Permutation](#), [RSpec tests](#)
+- [URLify](#), [RSpec tests](#)
+- [Palindrome Permutation](#), [RSpec tests](#)
+- [One Array](#), [RSpec tests](#)
+- [String Compression](#), [RSpec tests](#)
+- [Rotate Matrix](#), [RSpec tests](#)
+- [Zero Matrix](#), [RSpec tests](#)
+- [String Rotation](#), [RSpec tests](#)
+
+## Linked List
+- [Remove Dups](#), [RSpec tests](#)
+- [Return Kth to Last](#), [RSpec tests](#)
+- [Delete Middle Node](#), [RSpec tests](#)
+- [Partition](#), [RSpec tests](#)
+- [Sum List](#), [RSpec tests](#)
+- [Palindrome](#), [RSpec tests](#)
+- [Intersection](#), [RSpec tests](#)
+- [Loop Detection](#), [RSpec tests](#)
+
+
 
 ## Stacks and Queues
 - [Three in One](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/stacks_and_queues/three_in_one.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/stacks_and_queues/stacks_and_queue_spec/three_in_one_spec.rb)
