@@ -1,1 +1,1 @@
-# implement a MyQuese class which impletes a queue using two stacks 
+# implement a MyQuese class which implement a queue using two stacks  
