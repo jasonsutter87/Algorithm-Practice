@@ -1,7 +1,6 @@
 require_relative('../string_compression')
 
-describe '' do
-	
+describe 'string compression' do
 	let(:aabcccccaaa){'aabcccccaaa'}
 	let(:a2b1c5a3){'a2b1c5a3'}
 	let(:abcc){'abcc'}
