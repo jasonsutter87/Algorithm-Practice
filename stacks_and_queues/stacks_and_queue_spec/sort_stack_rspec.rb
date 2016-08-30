@@ -12,6 +12,6 @@ describe 'It should sort the stack' do
 	end
 
 	it 'it should return nil if the stack is empty' do
-		expect(sort_stack(empty_stack).last).to eq(1)
+		expect(sort_stack(empty_stack).last).to eq(nil)
 	end
 end
