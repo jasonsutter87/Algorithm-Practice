@@ -13,7 +13,7 @@
 
 - [Queue via Stacks](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/stacks_and_queues/queue_via_stacks.rb), [RSpectests](#)
 
-- [https://github.com/jasonsutter87/Algorithm_Practice/blob/master/stacks_and_queues/sort_stack.rb](), [RSpectests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/stacks_and_queues/stacks_and_queue_spec/sort_stack_rspec.rb)
+- [Sort Stack](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/stacks_and_queues/sort_stack.rb), [RSpectests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/stacks_and_queues/stacks_and_queue_spec/sort_stack_rspec.rb)
 
 - [Animal Shelter](#), [RSpectests](#)
 
