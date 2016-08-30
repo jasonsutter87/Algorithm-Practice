@@ -1,28 +1,26 @@
 #reverse a string using a stack and a queue
+def reverse_string(str)
+	#create the stack and queue
+	stack = []
+	queue = []
 
-#orginal string
-str = "Jason"
-# expected output => "nosaJ"
+	#split orginal string and put into an array
+	splitted = str.split('')
 
-#create the stack and queue
-stack = []
-queue = []
+	#until the splitted array is empty put the first letter into tge stack
+	until splitted.length == 0 
+		stack << splitted.shift
+	end
 
-#split orginal string and put into an array
-splitted = str.split('')
+	#until the stack is empty put the last in the queue
+	until stack.length == 0 
+		queue << stack.pop
+	end
 
-#until the splitted array is empty put the first letter into tge stack
-until splitted.length == 0 
-	stack << splitted.shift
+	#join the string in the queue array to output the final string
+	queue = queue.join
+
+	#output 
+	return queue
 end
 
-#until the stack is empty put the last in the queue
-until stack.length == 0 
-	queue << stack.pop
-end
-
-#join the string in the queue array to output the final string
-queue = queue.join
-
-#view output 
-p queue
