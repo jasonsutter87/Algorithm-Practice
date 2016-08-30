@@ -4,15 +4,15 @@
 >  Im using "Cracking the Coding Interview" for my guide
 
 ## Arrays and String
-- [Is Unique](#), [RSpec tests](#)
-- [Check Permutation](#), [RSpec tests](#)
-- [URLify](#), [RSpec tests](#)
-- [Palindrome Permutation](#), [RSpec tests](#)
-- [One Array](#), [RSpec tests](#)
-- [String Compression](#), [RSpec tests](#)
-- [Rotate Matrix](#), [RSpec tests](#)
-- [Zero Matrix](#), [RSpec tests](#)
-- [String Rotation](#), [RSpec tests](#)
+- [Is Unique](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/is_unique.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/is_unique_spec.rb)
+- [Check Permutation](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/check_permutation.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/check_permutation_spec.rb)
+- [URLify](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/urlify.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/urlify_spec.rb)
+- [Palindrome Permutation](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/palindrome_permutation.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/palindrome_permutation_spec.rb)
+- [One Array](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/one_array.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/one_array_spec.rb)
+- [String Compression](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/string_compression.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/string_compression_spec.rb)
+- [Rotate Matrix](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/rotate_matrix.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/rotate_matrix_spec.rb)
+- [Zero Matrix](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/zero_matrix.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/zero_matrix_spec.rb)
+- [String Rotation](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/string_rotation.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/string_rotation_spec.rb)
 
 ## Linked List
 - [Remove Dups](#), [RSpec tests](#)
