@@ -1,6 +1,6 @@
 # Describe how you could use a single array to implement three stacks.
-# => If you had a mix array you can iterate through the array and use 3
-# => stacks to sort out differnt data types.
+# => If you had a mixed array you can iterate through the array and use 3
+# => stacks to sort out different data types. 
 def three_in_one(array)
 	#three empty stacks
 	three_stacks = [
