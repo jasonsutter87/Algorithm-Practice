@@ -1,6 +1,6 @@
-#write a programe to sort a stack such that the smallest items are on top. You can use an additional temporay stack,
+#write a program to sort a stack such that the smallest items are on top. You can use an additional temporary stack,
 # but you may not copy the elements into any other data structure (such as an array).
-# you can only use: pop, push, peek, isEmpty
+# you can only use: pop, push, peek, isEmpty 
 
 arr = [1,3,33,5,2]
 arr2 = []
