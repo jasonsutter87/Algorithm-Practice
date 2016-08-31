@@ -2,7 +2,7 @@ require_relative('../urlify')
 
 describe '' do
 	let(:string){"Jason Loves TDD"}
-	let(:url) {"Jason%20Loves%20TD"}
+	let(:url) {"Jason%20Loves%20TDD"}
 	let(:name){"jason"}
 
 
