@@ -9,7 +9,7 @@ describe 'string compression' do
 		expect(string_compression(aabcccccaaa)).to eq(a2b1c5a3)
 	end
 
-	t 'it does not compress the word down that are smaller than compress version' do
+	it 'it does not compress the word down that are smaller than compress version' do
 		expect(string_compression(abcc)).to eq(abcc)
 	end
 end
