@@ -3,7 +3,6 @@ def zero_matrix(matrix)
 	zero = nil
 	matrix.length.times do |row|
 		if matrix[row].include?(0)
-			# p "zeros"
 			matrix[row].each_with_index do |zeros, idx|
 				if zeros == 0
 					zero = idx
