@@ -8,7 +8,10 @@ class Node
 		@value = value
 		@next_node = next_node
 	end
+end
 
+
+class LinkedList
 	def self.delete_node(head_node, node_num)
 		count = 0
 		node = head_node
@@ -23,11 +26,14 @@ class Node
 	end
 end
 
-
+#create the linked list
 node4 = Node.new("D", nil)
 node3 = Node.new("C", node4)
 node2 = Node.new("B", node3)
 node1 = Node.new("A", node2)
 
+#show orginal linked list
 p node1
-p delete = Node.delete_node(node1, 1)
+
+#delete middle node in a linked list
+p delete = LinkedList.delete_node(node1, 1)
