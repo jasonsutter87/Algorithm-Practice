@@ -15,14 +15,14 @@
 - [String Rotation](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/string_rotation.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/arrays_and_strings/array_and_string_spec/string_rotation_spec.rb)
 
 ## Linked List
-- [Remove Dups](#), [RSpec tests](#)
-- [Return Kth to Last](#), [RSpec tests](#)
-- [Delete Middle Node](#), [RSpec tests](#)
-- [Partition](#), [RSpec tests](#)
-- [Sum List](#), [RSpec tests](#)
-- [Palindrome](#), [RSpec tests](#)
-- [Intersection](#), [RSpec tests](#)
-- [Loop Detection](#), [RSpec tests](#)
+- [Remove Dups](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/remove_dups.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/remove_dups_spec.rb)
+- [Return Kth to Last](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/return_kth_to_last.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/return_kth_to_last_spec.rb)
+- [Delete Middle Node](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/delete_middle_node.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/delete_middle_node_spec.rb)
+- [Partition](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/partition.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/partition_spec.rb)
+- [Sum List](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/sum_list.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/sum_list_spec.rb)
+- [Palindrome](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/palindrome.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/palindrome_spec.rb)
+- [Intersection](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/intersection.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/intersection_spec.rb)
+- [Loop Detection](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/loop_detection.rb), [RSpec tests](https://github.com/jasonsutter87/Algorithm_Practice/blob/master/Listed_Lists/linked_list_spec/loop_detection_spec.rb)
 
 
 
