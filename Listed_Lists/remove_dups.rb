@@ -12,6 +12,7 @@ end
 
 
 class LinkedList
+
 	def self.last(head_node)
 		return head_node if head_node.next_node.nil?
 		self.last(head_node.next_node)
@@ -31,17 +32,7 @@ class LinkedList
 	end
 	
 	def self.remove_dup(head_node, count=0)
-		return head_node if head_node.next_node.nil?
-			if @keys == nil
-				p @keys = [] << head_node.value
-			else
-				if @keys.include?(head_node.value) == false
-			    	p @keys << head_node.value
-			    end
-			end
-		p count
-		count += 1
-		self.remove_dup(head_node.next_node, count)
+		head_node
 	end
 end
 
@@ -58,14 +49,5 @@ head = Node.new("A", node2)
 
 
 
-# p head
+p done = LinkedList.remove_dup(head)
 
-p done = Node.remove_dup(head)
-# p done = Node.last(head)
-
-
-
-#changing the head to the second node
-# p head = head.next_node
-
-# p delete = Node.delete_node(node1, 1)
